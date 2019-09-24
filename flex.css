@@ -1,0 +1,20 @@
+body{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+header{
+    width: 100%;
+    background: #282828;
+    text-align: center;
+}
+
+nav{
+    width: 100%;
+    background: whitesmoke;
+}
+
+nav ul{
+    display: flex;
+    justify-content: space-around;
+}
